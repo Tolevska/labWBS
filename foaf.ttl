@@ -24,3 +24,4 @@
     foaf:title "Mrs" ;
     foaf:workInfoHomepage <https://ways2help.us/en/about/> ;
     foaf:workplaceHomepage <http://ways2help.us/> .
+
